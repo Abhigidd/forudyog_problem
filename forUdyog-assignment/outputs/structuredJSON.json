@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Alpha Co",
+    "amount": 1000.0,
+    "date": "2025-10-01",
+    "notes": "First invoice"
+  },
+  {
+    "id": 2,
+    "name": "Beta LLC",
+    "amount": 2500.5,
+    "date": "2025-10-02",
+    "notes": "Follow-up"
+  },
+  {
+    "id": 3,
+    "name": "Gamma Inc",
+    "amount": 0.0,
+    "date": "2025-09-30",
+    "notes": "Refund"
+  }
+]
